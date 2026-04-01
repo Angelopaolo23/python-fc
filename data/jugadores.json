@@ -1,0 +1,31 @@
+{
+    "ARQ": {
+        "nombre": "Claudio Bravo",
+        "edad": 39,
+        "posicion": "ARQ",
+        "goles": 1,
+        "liderazgo": 10,
+        "tipo": "Capitan"
+    },
+    "MED2": {
+        "nombre": "Juan Roman Riquelme",
+        "edad": 37,
+        "posicion": "MED2",
+        "goles": 19,
+        "tipo": "Jugador"
+    },
+    "DEL1": {
+        "nombre": "Chupete Suazo",
+        "edad": 41,
+        "posicion": "DEL1",
+        "goles": 51,
+        "tipo": "Jugador"
+    },
+    "DEF2": {
+        "nombre": "Luis Fuentes",
+        "edad": 33,
+        "posicion": "DEF2",
+        "goles": 4,
+        "tipo": "Jugador"
+    }
+}
